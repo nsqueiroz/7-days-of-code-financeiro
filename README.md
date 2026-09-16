@@ -1,40 +1,33 @@
-# 💰 7 Days of Training — App de Controle Financeiro
+# 🏁 Dia 07/7 — Finalizando e publicando
 
-Repositório oficial do desafio **7 Days of Training**, trilha **Financeiro**.
+## Conceito do dia
 
-Ao longo de 7 dias, você vai construir — na prática, usando **IA** e a ferramenta **[Lovable](https://lovable.dev)** — um **App de Controle Financeiro** completo para pequenos negócios e autônomos. No final, você terá um projeto publicado e pronto para o seu **portfólio** ou para postar no **LinkedIn**.
+**Publicar (deploy)** significa colocar seu projeto no ar, com um link público que qualquer pessoa pode acessar pelo navegador — sem precisar abrir o Lovable. É o que transforma seu projeto de "protótipo" em algo real.
 
-## 🧭 Como funciona
+## Desafio do dia
 
-Cada dia do desafio tem sua própria branch, contendo:
+1. Volte ao seu projeto no Lovable e faça uma revisão geral: navegue por todas as telas que você criou ao longo da semana.
+2. Peça ajustes finais de design. Algumas sugestões de prompt:
 
-- **Conceito do dia** — a explicação do que você vai aprender
-- **Desafio do dia** — o enunciado e o prompt sugerido para usar no Lovable
-- **Saída esperada** — o que você deve conseguir ver/fazer ao final do desafio
-- **Exercício opcional** — um extra para quem quiser ir além (quando houver)
-- **Dica** — um direcionamento extra para ajudar no desafio (quando houver)
+```
+Deixe o app com uma paleta de cores mais consistente entre todas as telas.
+```
 
-## 📅 Trilha completa
+```
+Ajuste o app para ficar responsivo, funcionando bem também em telas de celular.
+```
 
-| Dia | Tema |
-|---|---|
-| [Dia 01](branches/dia-01/README.md) | 🚀 Criando seu app com IA |
-| [Dia 02](branches/dia-02/README.md) | 💰 Registrando suas transações |
-| [Dia 03](branches/dia-03/README.md) | 📋 Criando seu extrato |
-| [Dia 04](branches/dia-04/README.md) | 🔍 Adicionando filtros |
-| [Dia 05](branches/dia-05/README.md) | 📊 Resumo financeiro automático |
-| [Dia 06](branches/dia-06/README.md) | 📈 Visualizando o fluxo de caixa |
-| [Dia 07](branches/dia-07/README.md) | 🏁 Finalizando e publicando |
+3. Publique seu projeto: use a opção de **deploy/publicar** do Lovable para gerar um link público do seu app.
+4. Tire um ou dois prints das telas mais bonitas (tela inicial, extrato e gráfico são boas escolhas).
 
-## 🛠️ Pré-requisitos
+## Saída esperada
 
-- Conta gratuita no [Lovable](https://lovable.dev)
-- Vontade de aprender construindo! 🚀
+Você deve ter um link público funcionando, que abre o app fora do editor do Lovable, além de prints das principais telas.
 
-## 🏷️ Compartilhe sua jornada
+## Exercício opcional
 
-Ao concluir os 7 dias, compartilhe seu projeto usando a hashtag **#7DaysOfCode** e marque seu progresso — queremos ver o que você construiu!
+Escreva uma legenda para postar no LinkedIn contando o que você construiu nos 7 dias.
 
----
+## Dica
 
-> ℹ️ Este repositório está organizado em **branches**, uma para cada dia do desafio. Veja o arquivo [`GUIA-BRANCHES.md`](GUIA-BRANCHES.md) para instruções de como transformar essas pastas em branches no seu repositório.
+Sugestão de legenda: _"Nos últimos 7 dias, participei do desafio 7 Days of Training e construí do zero um app de controle financeiro usando IA, com o Lovable. O projeto conta com cadastro de transações, extrato com filtros, resumo automático e gráfico de fluxo de caixa. Foi uma ótima forma de aprender na prática como usar IA para criar produtos digitais! 🚀 #Lovable #IA #Portfolio"_
