@@ -1,40 +1,31 @@
-# 💰 7 Days of Training — App de Controle Financeiro
+# 📋 Dia 03/7 — Criando seu extrato
 
-Repositório oficial do desafio **7 Days of Training**, trilha **Financeiro**.
+## Conceito do dia
 
-Ao longo de 7 dias, você vai construir — na prática, usando **IA** e a ferramenta **[Lovable](https://lovable.dev)** — um **App de Controle Financeiro** completo para pequenos negócios e autônomos. No final, você terá um projeto publicado e pronto para o seu **portfólio** ou para postar no **LinkedIn**.
+Exibir dados em **lista** ou **tabela** é uma das tarefas mais comuns em qualquer aplicativo. Além de mostrar as informações, é possível usar cores e formatação para deixar a leitura mais rápida e intuitiva — como destacar receitas e despesas com cores diferentes.
 
-## 🧭 Como funciona
+## Desafio do dia
 
-Cada dia do desafio tem sua própria branch, contendo:
+1. Volte ao seu projeto no Lovable.
+2. No campo de prompt, peça a criação de uma lista/tabela com as transações cadastradas.
 
-- **Conceito do dia** — a explicação do que você vai aprender
-- **Desafio do dia** — o enunciado e o prompt sugerido para usar no Lovable
-- **Saída esperada** — o que você deve conseguir ver/fazer ao final do desafio
-- **Exercício opcional** — um extra para quem quiser ir além (quando houver)
-- **Dica** — um direcionamento extra para ajudar no desafio (quando houver)
+**Exemplo de prompt:**
 
-## 📅 Trilha completa
+```
+Crie uma tela de extrato que exiba em formato de lista ou tabela todas as transações cadastradas, mostrando: data, categoria, tipo (receita ou despesa) e valor. Destaque receitas em verde e despesas em vermelho.
+```
 
-| Dia | Tema |
-|---|---|
-| [Dia 01](branches/dia-01/README.md) | 🚀 Criando seu app com IA |
-| [Dia 02](branches/dia-02/README.md) | 💰 Registrando suas transações |
-| [Dia 03](branches/dia-03/README.md) | 📋 Criando seu extrato |
-| [Dia 04](branches/dia-04/README.md) | 🔍 Adicionando filtros |
-| [Dia 05](branches/dia-05/README.md) | 📊 Resumo financeiro automático |
-| [Dia 06](branches/dia-06/README.md) | 📈 Visualizando o fluxo de caixa |
-| [Dia 07](branches/dia-07/README.md) | 🏁 Finalizando e publicando |
+3. Cadastre 3 ou 4 transações de exemplo (algumas receitas, algumas despesas) para ver a listagem funcionando com dados reais.
+4. Observe como ficou a organização visual — peça ajustes se algo estiver confuso ou desalinhado.
 
-## 🛠️ Pré-requisitos
+## Saída esperada
 
-- Conta gratuita no [Lovable](https://lovable.dev)
-- Vontade de aprender construindo! 🚀
+Ao cadastrar transações de exemplo, elas devem aparecer na tela de extrato, com receitas em verde e despesas em vermelho.
 
-## 🏷️ Compartilhe sua jornada
+## Exercício opcional
 
-Ao concluir os 7 dias, compartilhe seu projeto usando a hashtag **#7DaysOfCode** e marque seu progresso — queremos ver o que você construiu!
+Peça para a IA ordenar a lista da transação mais recente para a mais antiga.
 
----
+## Dica
 
-> ℹ️ Este repositório está organizado em **branches**, uma para cada dia do desafio. Veja o arquivo [`GUIA-BRANCHES.md`](GUIA-BRANCHES.md) para instruções de como transformar essas pastas em branches no seu repositório.
+Pequenos detalhes visuais, como cores e ordenação, fazem o app parecer um "produto de verdade".
