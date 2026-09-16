@@ -1,40 +1,31 @@
-# 💰 7 Days of Training — App de Controle Financeiro
+# 🔍 Dia 04/7 — Adicionando filtros
 
-Repositório oficial do desafio **7 Days of Training**, trilha **Financeiro**.
+## Conceito do dia
 
-Ao longo de 7 dias, você vai construir — na prática, usando **IA** e a ferramenta **[Lovable](https://lovable.dev)** — um **App de Controle Financeiro** completo para pequenos negócios e autônomos. No final, você terá um projeto publicado e pronto para o seu **portfólio** ou para postar no **LinkedIn**.
+**Filtros** permitem que a pessoa usuária veja apenas o que interessa em um determinado momento, sem precisar rolar a lista inteira. É uma das funcionalidades que mais aumentam a usabilidade de um app com muitos dados.
 
-## 🧭 Como funciona
+## Desafio do dia
 
-Cada dia do desafio tem sua própria branch, contendo:
+1. Volte ao seu projeto no Lovable.
+2. No campo de prompt, peça a criação de filtros para o extrato.
 
-- **Conceito do dia** — a explicação do que você vai aprender
-- **Desafio do dia** — o enunciado e o prompt sugerido para usar no Lovable
-- **Saída esperada** — o que você deve conseguir ver/fazer ao final do desafio
-- **Exercício opcional** — um extra para quem quiser ir além (quando houver)
-- **Dica** — um direcionamento extra para ajudar no desafio (quando houver)
+**Exemplo de prompt:**
 
-## 📅 Trilha completa
+```
+Adicione filtros na tela de extrato: um filtro por tipo (receita ou despesa) e um filtro por categoria. Os filtros devem atualizar a lista exibida automaticamente, sem precisar recarregar a página.
+```
 
-| Dia | Tema |
-|---|---|
-| [Dia 01](branches/dia-01/README.md) | 🚀 Criando seu app com IA |
-| [Dia 02](branches/dia-02/README.md) | 💰 Registrando suas transações |
-| [Dia 03](branches/dia-03/README.md) | 📋 Criando seu extrato |
-| [Dia 04](branches/dia-04/README.md) | 🔍 Adicionando filtros |
-| [Dia 05](branches/dia-05/README.md) | 📊 Resumo financeiro automático |
-| [Dia 06](branches/dia-06/README.md) | 📈 Visualizando o fluxo de caixa |
-| [Dia 07](branches/dia-07/README.md) | 🏁 Finalizando e publicando |
+3. Teste os filtros: cadastre transações de categorias diferentes (se ainda não tiver) e veja se a lista realmente atualiza quando você filtra.
+4. Se algo não funcionar como esperado, descreva o problema para a IA e peça o ajuste.
 
-## 🛠️ Pré-requisitos
+## Saída esperada
 
-- Conta gratuita no [Lovable](https://lovable.dev)
-- Vontade de aprender construindo! 🚀
+Ao selecionar um filtro (ex: "despesa" ou uma categoria específica), a lista de transações deve atualizar na hora, mostrando só os itens correspondentes.
 
-## 🏷️ Compartilhe sua jornada
+## Exercício opcional
 
-Ao concluir os 7 dias, compartilhe seu projeto usando a hashtag **#7DaysOfCode** e marque seu progresso — queremos ver o que você construiu!
+Peça também um filtro por período (ex: "últimos 7 dias" ou "este mês").
 
----
+## Dica
 
-> ℹ️ Este repositório está organizado em **branches**, uma para cada dia do desafio. Veja o arquivo [`GUIA-BRANCHES.md`](GUIA-BRANCHES.md) para instruções de como transformar essas pastas em branches no seu repositório.
+_Sem dica para este dia._
