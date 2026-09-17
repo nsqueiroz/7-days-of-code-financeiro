@@ -26,6 +26,3 @@ Ao selecionar um filtro (ex: "despesa" ou uma categoria específica), a lista de
 
 Peça também um filtro por período (ex: "últimos 7 dias" ou "este mês").
 
-## Dica
-
-_Sem dica para este dia._
