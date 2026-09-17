@@ -26,6 +26,3 @@ Os três cartões devem exibir valores corretos, refletindo a soma das transaç�
 
 Peça para a IA deixar o cartão de "Saldo Final" com destaque visual maior que os outros dois, e mudar de cor conforme o saldo for positivo (verde) ou negativo (vermelho).
 
-## Dica
-
-_Sem dica para este dia._
