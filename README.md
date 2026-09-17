@@ -18,13 +18,13 @@ Cada dia do desafio tem sua própria branch, contendo:
 
 | Dia | Tema |
 |---|---|
-| [Dia 01](branches/dia-01/README.md) | 🚀 Criando seu app com IA |
-| [Dia 02](branches/dia-02/README.md) | 💰 Registrando suas transações |
-| [Dia 03](branches/dia-03/README.md) | 📋 Criando seu extrato |
-| [Dia 04](branches/dia-04/README.md) | 🔍 Adicionando filtros |
-| [Dia 05](branches/dia-05/README.md) | 📊 Resumo financeiro automático |
-| [Dia 06](branches/dia-06/README.md) | 📈 Visualizando o fluxo de caixa |
-| [Dia 07](branches/dia-07/README.md) | 🏁 Finalizando e publicando |
+| [Dia 01](https://github.com/nsqueiroz/7-days-of-code-financeiro/tree/dia-01) | 🚀 Criando seu app com IA |
+| [Dia 02](https://github.com/nsqueiroz/7-days-of-code-financeiro/tree/dia-02) | 💰 Registrando suas transações |
+| [Dia 03](https://github.com/nsqueiroz/7-days-of-code-financeiro/tree/dia-03) | 📋 Criando seu extrato |
+| [Dia 04](https://github.com/nsqueiroz/7-days-of-code-financeiro/tree/dia-04) | 🔍 Adicionando filtros |
+| [Dia 05](https://github.com/nsqueiroz/7-days-of-code-financeiro/tree/dia-05) | 📊 Resumo financeiro automático |
+| [Dia 06](https://github.com/nsqueiroz/7-days-of-code-financeiro/tree/dia-06) | 📈 Visualizando o fluxo de caixa |
+| [Dia 07](https://github.com/nsqueiroz/7-days-of-code-financeiro/tree/dia-07) | 🏁 Finalizando e publicando |
 
 ## 🛠️ Pré-requisitos
 
