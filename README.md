@@ -2,7 +2,7 @@
 
 ## Conceito do dia
 
-**Publicar (deploy)** significa colocar seu projeto no ar, com um link público que qualquer pessoa pode acessar pelo navegador — sem precisar abrir o Lovable. É o que transforma seu projeto de "protótipo" em algo real.
+**Publicar (deploy)** significa colocar seu projeto no ar, com um link público que qualquer pessoa pode acessar pelo navegador, sem precisar abrir o Lovable. É o que transforma seu projeto de "protótipo" em algo real.
 
 ## Desafio do dia
 
@@ -17,8 +17,8 @@ Deixe o app com uma paleta de cores mais consistente entre todas as telas.
 Ajuste o app para ficar responsivo, funcionando bem também em telas de celular.
 ```
 
-3. Publique seu projeto: use a opção de **deploy/publicar** do Lovable para gerar um link público do seu app.
-4. Tire um ou dois prints das telas mais bonitas (tela inicial, extrato e gráfico são boas escolhas).
+3. Publique seu projeto: use a opção de **Publicar**, localizado no canto superior direito da tela do Lovable, para gerar um link público do seu app.
+4. Tire um ou dois prints das telas mais bonitas (tela inicial, extrato e gráfico são boas escolhas) para compartilhar o seu trabalho.
 
 ## Saída esperada
 
@@ -30,4 +30,4 @@ Escreva uma legenda para postar no LinkedIn contando o que você construiu nos 7
 
 ## Dica
 
-Sugestão de legenda: _"Nos últimos 7 dias, participei do desafio 7 Days of Training e construí do zero um app de controle financeiro usando IA, com o Lovable. O projeto conta com cadastro de transações, extrato com filtros, resumo automático e gráfico de fluxo de caixa. Foi uma ótima forma de aprender na prática como usar IA para criar produtos digitais! 🚀 #Lovable #IA #Portfolio"_
+Sugestão de legenda: "Nos últimos 7 dias, participei do desafio 7 Days of Training e construí do zero um app de controle financeiro usando IA, com o Lovable. O projeto conta com cadastro de transações, extrato com filtros, resumo automático e gráfico de fluxo de caixa. Foi uma ótima forma de aprender na prática como usar IA para criar produtos digitais! 🚀 
