@@ -28,4 +28,4 @@ Peça à IA para criar duas versões diferentes de título/descrição para a te
 
 ## Dica
 
-Não se preocupe em acertar de primeira. Ajustar o prompt e pedir refinamentos é parte do processo — isso também é aprender a "programar" com IA.
+Não se preocupe em acertar de primeira. Ajustar o prompt e pedir refinamentos é parte do processo, isso também é aprender a "programar" com IA.
