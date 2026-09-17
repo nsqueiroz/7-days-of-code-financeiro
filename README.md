@@ -26,6 +26,3 @@ O gráfico deve exibir duas barras (ou elementos visuais) comparando receitas e 
 
 Peça um gráfico por categoria, mostrando quanto foi gasto em cada uma.
 
-## Dica
-
-_Sem dica para este dia._
