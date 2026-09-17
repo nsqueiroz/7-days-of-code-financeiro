@@ -2,7 +2,7 @@
 
 ## Conceito do dia
 
-Um **formulário** é a porta de entrada dos dados no seu app — é onde a pessoa usuária informa valores, escolhe categorias e registra informações. No Lovable, você descreve os campos que quer, e a IA monta a interface do formulário para você.
+Um **formulário** é a porta de entrada dos dados no seu app, é onde a pessoa usuária informa valores, escolhe categorias e registra informações. No Lovable, você descreve os campos que quer, e a IA monta a interface do formulário para você.
 
 ## Desafio do dia
 
@@ -26,6 +26,3 @@ Você deve conseguir preencher valor, tipo, categoria e data no formulário, cli
 
 Peça para a IA adicionar uma validação simples, tipo "o campo valor não pode ficar vazio".
 
-## Dica
-
-_Sem dica para este dia._
