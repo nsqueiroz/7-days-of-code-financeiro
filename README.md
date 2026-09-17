@@ -1,8 +1,8 @@
-# 💰 7 Days of Training — App de Controle Financeiro
+# 💰 7 Days of Code — App de Controle Financeiro
 
-Repositório oficial do desafio **7 Days of Training**, trilha **Financeiro**.
+Repositório do desafio **7 Days of Code**.
 
-Ao longo de 7 dias, você vai construir — na prática, usando **IA** e a ferramenta **[Lovable](https://lovable.dev)** — um **App de Controle Financeiro** completo para pequenos negócios e autônomos. No final, você terá um projeto publicado e pronto para o seu **portfólio** ou para postar no **LinkedIn**.
+Ao longo de 7 dias, você vai construir, na prática, usando **IA** e a ferramenta **[Lovable](https://lovable.dev)** — um **App de Controle Financeiro** completo para pequenos negócios e autônomos. No final, você terá um projeto publicado e pronto para o seu portfólio.
 
 ## 🧭 Como funciona
 
@@ -29,12 +29,10 @@ Cada dia do desafio tem sua própria branch, contendo:
 ## 🛠️ Pré-requisitos
 
 - Conta gratuita no [Lovable](https://lovable.dev)
+- Criatividade
 - Vontade de aprender construindo! 🚀
 
 ## 🏷️ Compartilhe sua jornada
 
-Ao concluir os 7 dias, compartilhe seu projeto usando a hashtag **#7DaysOfCode** e marque seu progresso — queremos ver o que você construiu!
+Ao concluir os 7 dias, compartilhe seu projeto usando a hashtag **#7DaysOfCode** e marque seu progresso, queremos ver o que você construiu!
 
----
-
-> ℹ️ Este repositório está organizado em **branches**, uma para cada dia do desafio. Veja o arquivo [`GUIA-BRANCHES.md`](GUIA-BRANCHES.md) para instruções de como transformar essas pastas em branches no seu repositório.
