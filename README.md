@@ -30,4 +30,4 @@ Escreva uma legenda para postar no LinkedIn contando o que você construiu nos 7
 
 ## Dica
 
-Sugestão de legenda: "Nos últimos 7 dias, participei do desafio 7 Days of Training e construí do zero um app de controle financeiro usando IA, com o Lovable. O projeto conta com cadastro de transações, extrato com filtros, resumo automático e gráfico de fluxo de caixa. Foi uma ótima forma de aprender na prática como usar IA para criar produtos digitais! 🚀 
+Sugestão de legenda: "Nos últimos 7 dias, participei do desafio 7 Days of Code e construí do zero um app de controle financeiro usando IA, com o Lovable. O projeto conta com cadastro de transações, extrato com filtros, resumo automático e gráfico de fluxo de caixa. Foi uma ótima forma de aprender na prática como usar IA para criar produtos digitais! 🚀 
